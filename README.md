@@ -4,6 +4,7 @@
 **chalaa/chalaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning  Machine learning and data science
@@ -11,7 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Laravel and programming
 - 📫 How to reach me: chalaolanigeleta@gmail.com
--->
 
 
 ## 🌐 Socials:
